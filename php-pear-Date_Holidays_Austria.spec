@@ -7,7 +7,7 @@
 Summary:	%{_pearname} - driver based class to calculate holidays in %{_region}
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
